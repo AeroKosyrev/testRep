@@ -1,6 +1,2 @@
 String1 test
 String test2
-asfasdf
-
-
-new String str
